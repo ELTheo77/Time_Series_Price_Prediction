@@ -172,9 +172,3 @@ plot_prediction_vs_actual(actual_prices, predicted_prices)
 3. **Data Properties**:
    - Prices follow SARIMA process
    - Residuals are normally distributed
-
-## Future Improvements
-- Integration of external factors (weather, storage levels)
-- Dynamic parameter adjustment
-- Automated outlier detection
-- Confidence interval calculations
