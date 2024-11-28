@@ -1,6 +1,6 @@
 # Natural Gas Price Predictor
 
-A time series analysis tool for predicting natural gas prices using SARIMA (Seasonal AutoRegressive Integrated Moving Average) modeling. This project provides price predictions based on dummy historical data, incorporating both seasonal patterns and long-term trends for practical application in commodity trading and risk management.
+A time series analysis tool for predicting natural gas prices using SARIMA (Seasonal AutoRegressive Integrated Moving Average) modeling. This project provides price predictions based on historical data, incorporating both seasonal patterns and long-term trends for practical application in commodity trading and risk management.
 
 ## Features
 
@@ -111,7 +111,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
 
 ## Acknowledgments
 
