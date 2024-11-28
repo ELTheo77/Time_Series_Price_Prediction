@@ -115,6 +115,4 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 
 ## Acknowledgments
 
-- Data provided by standard commodity market sources
-- Built using state-of-the-art time series analysis techniques
-- Developed for practical application in commodity trading
+- Data provided by JPMorgan Chase x Forage
